@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://perserve-my-photos.github.io/Photo-Website/sitemap.xml
